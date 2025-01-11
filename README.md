@@ -1,9 +1,15 @@
-- 👋 Hi, I’m @hjki156
-- 👀 I’m interested in programming, talking with my sister and drawing pictures.
-- 🌱 I’m currently learning JavaScript and CSS3.
-- 📫 3518905442hu@gmail.com or 3518905442@qq.com
+- 👋 您好，这是
+$$
+\mathbf{@hjki156} \in \left| \begin{array}{cccc}
+QiDi &Middle  \\
+School &Super \\
+\end{array} \right|
+$$ .
+- 👀 ▶此人爱好已被隐藏
+- 🌱 此人已经了解过 JavaScript, Python, Zig, Go 等一众流行语言但并不精通…
+- 📫 3518905442hu#gmail.com or 3518905442#qq.com
 
-<!---
-hjki156/hjki156 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+> [!TIP]
+> 你说为什么我 profile 为什么这么简单？~~懒的写谢谢。~~
+> 这正体现了 @hjki156 话少活狠的特征。
