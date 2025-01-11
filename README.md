@@ -1,10 +1,4 @@
-- 👋 您好，这是
-$$
-\mathbf{@hjki156} \in \left| \begin{array}{cccc}
-QiDi &Middle  \\
-School &Super \\
-\end{array} \right|
-$$ .
+- 👋 您好，这是 @hjki156 $\in$ `QiDi Middle School`.
 - 👀 ▶此人爱好已被隐藏
 - 🌱 此人已经了解过 JavaScript, Python, Zig, Go 等一众流行语言但并不精通…
 - 📫 3518905442hu#gmail.com or 3518905442#qq.com
